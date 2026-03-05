@@ -211,3 +211,12 @@ frontend/dist/
 
 frontend/node_modules/
 frontend/dist/
+
+.git.backup
+**/.git.backup/
+backend/.git.backup/
+frontend/.git.backup/
+.git.backup
+**/.git.backup/
+backend/.git.backup/
+frontend/.git.backup/

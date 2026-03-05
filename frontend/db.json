@@ -1,0 +1,58 @@
+{
+  "logs": [
+{
+"date": "2025-11-19",
+"bodyWeight": 174,
+"BMR": 1742,
+"calorieIntake": 1900,
+"activeCalories": 1120,
+"deficit": 626,
+"proteinIntake": 120
+},
+{
+"date": "2025-11-20",
+"bodyWeight": 174,
+"BMR": 1742,
+"calorieIntake": 1871,
+"activeCalories": 1820,
+"deficit": 1145,
+"proteinIntake": 120
+},
+{
+"date": "2025-11-21",
+"bodyWeight": 174,
+"BMR": 1742,
+"calorieIntake": 1766,
+"activeCalories": 1000,
+"deficit": 676,
+"proteinIntake": 124
+},
+{
+"date": "2025-11-22",
+"bodyWeight": 174,
+"BMR": 1742,
+"calorieIntake": 1961,
+"activeCalories": 1400,
+"deficit": 761,
+"proteinIntake": 127
+},
+{
+"date": "2025-11-23",
+"bodyWeight": 174,
+"BMR": 1742,
+"calorieIntake": 1795,
+"activeCalories": 500,
+"deficit": 297,
+"proteinIntake": 187
+},
+{
+"date": "2025-11-24",
+"bodyWeight": 174,
+"BMR": 1742,
+"calorieIntake": 1620,
+"activeCalories": 1250,
+"deficit": 997,
+"proteinIntake": 135
+}
+  ]
+}
