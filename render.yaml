@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: food-tracker
+    env: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    autoDeploy: true
+    healthCheckPath: /logs
+    envVars:
+      - key: MONGO_URI
+        sync: false
+      - key: MONGO_DB
+        value: calorie_tracker
+      - key: MONGO_COLLECTION
+        value: daily_logs
